@@ -1,0 +1,34 @@
+bibentry(
+  bibtype = "Article",
+  title = "scchromatinR: A Native R Implementation for Inferring Chromatin Remodelling Velocity from Single-Cell ATAC-seq Data",
+  author = person(given = "Himanshu", family = "Bhandary", role = c("aut", "cre"), email = "2032ushimanshu@gmail.com", comment = c(ORCID = "0000-0000-0000-0000")),
+  year = "2026",
+  journal = "Journal Name",
+  volume = "0",
+  number = "0",
+  pages = "0--0",
+  doi = "10.0000/00000",
+  header = "To cite scchromatinR in publications, please use:",
+  textVersion = paste(
+    "Bhandary, Himanshu (2026).",
+    "scchromatinR: A Native R Implementation for Inferring Chromatin Remodelling Velocity from Single-Cell ATAC-seq Data.",
+    "Journal Name, 0(0), 0-0.",
+    "doi:10.0000/00000"
+  )
+)
+
+bibentry(
+  bibtype = "Manual",
+  title = "{scchromatinR}: Chromatin Remodelling Velocity from scATAC-seq Data",
+  author = person(given = "Himanshu", family = "Bhandary", role = c("aut", "cre"), email = "2032ushimanshu@gmail.com", comment = c(ORCID = "0000-0000-0000-0000")),
+  year = "2026",
+  note = "R package version 0.99.0",
+  url = "https://github.com/BDB-Genomics/scchromatinR",
+  header = "To cite the scchromatinR R package itself, please use:",
+  textVersion = paste(
+    "Bhandary, Himanshu (2026).",
+    "scchromatinR: Chromatin Remodelling Velocity from scATAC-seq Data.",
+    "R package version 0.99.0.",
+    "https://github.com/BDB-Genomics/scchromatinR"
+  )
+)
