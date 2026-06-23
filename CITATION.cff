@@ -1,1 +1,29 @@
-
+cff-version: 0.99.0
+message: "If you use this software, please cite both the software and the article below."
+title: "scchromatinR: Chromatin Remodelling Velocity from scATAC-seq Data"
+authors:
+  - family-names: "Bhandary"
+    given-names: "Himanshu"
+    orcid: ""
+repository-code: "https://github.com/BDB-Genomics/scchromatinR"
+license: MIT 
+type: software
+keywords:
+  - scATAC-seq
+  - chromatin velocity
+  - single-cell epigenomics
+  - chromatin remodelling
+  - R
+preferred-citation:
+  type: article
+  title: "scchromatinR: A Native R Implementation for Inferring Chromatin Remodelling Velocity from Single-Cell ATAC-seq Data"
+  authors:
+    - family-names: "Bhandary"
+      given-names: "Himanshu"
+  year: 2026
+  journal: ""
+  volume: None
+  issue: None
+  start: None
+  end: None
+  doi: ""
